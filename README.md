@@ -1,6 +1,6 @@
 # bitirme-projesi
 
-![Poster](https://emredolu.com/dimg/urun/28439296692368631718enson-EmreDolu.png)
+![Poster](https://emredolu.com/dimg/urun/3076421110317042486031178205042279227611bitirme-projesi%20(1).jpg)
 ## Projenin amacı
 Bu projenin amacı ses işleme ve görüntü işleme ile 90 dakikalık bir futbol maçının otomatik olarak özetini çıkarmak olmuştur. Projenin arayüzünde maç videosu seçme ve özeti kaydetme yeri seçilir ve onayla butonuna basılır. Görüntü işleme verisinin oyuncuları tespit edip etmediği kontrol edilir ve Q tuşuna basılır. 
 
